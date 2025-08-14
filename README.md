@@ -4,7 +4,7 @@
 
 
 # 📢Projeto 1 - Mini Spotify — Sistema de Streaming de Mídias sonoras
-Bem-vindo ao Sistema de Mini Spotify! Este sistema foi desenvolvido para facilitar o streaming de Mídias sonoras.
+Bem-vindo ao Sistema de Mini Spotify! Este sistema foi desenvolvido para facilitar o streaming de mídias sonoras.
 
 ✨ Funcionalidades:
 
@@ -18,4 +18,4 @@ Bem-vindo ao Sistema de Mini Spotify! Este sistema foi desenvolvido para facilit
 
 •🗑️Excluir um livro ou revista pelo título;
 
-•🚪Sair do sistema de gerenciamento de biblioteca de forma segura.
+•🚪Sair do sistema de streaming de mídias sonoras de forma segura.
