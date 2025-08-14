@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f4bb578a-c54b-414d-ba8c-7ef492b1f38a" alt="Unifacisa Aulas" width="400" />
+  <img src="https://github.com/user-attachments/assets/bd143701-1bd9-4dab-8659-0e55059c29fd" alt="Unifacisa Aulas" width="400" />
 </p>
-
 
 # 📢Projeto 1 - Mini Spotify — Sistema de Streaming de Mídias sonoras
 Bem-vindo ao Sistema de Mini Spotify! Este sistema foi desenvolvido para facilitar o streaming de mídias sonoras.
