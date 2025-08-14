@@ -3,8 +3,8 @@
 </p>
 
 
-# 📢Projeto 2 - Gerenciamento de Biblioteca Em Java Orientada a Objeto
-Bem-vindo ao Sistema de Gerenciamento de Biblioteca! Este sistema foi desenvolvido para facilitar a coleta de livros ou revistas dos clientes.
+# 📢Projeto 1 - Mini Spotify — Sistema de Streaming de Mídias sonoras
+Bem-vindo ao Sistema de Mini Spotify! Este sistema foi desenvolvido para facilitar o streaming de Mídias sonoras.
 
 ✨ Funcionalidades:
 
