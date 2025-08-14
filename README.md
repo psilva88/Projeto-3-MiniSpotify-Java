@@ -8,14 +8,14 @@ Bem-vindo ao Sistema de Mini Spotify! Este sistema foi desenvolvido para facilit
 
 ✨ Funcionalidades:
 
-•🔍Listagem de todos os livros ou revistas registrados;
+•👤 Gerenciar usuários: cadastrar-se com nome e e-mail, criar e gerenciar playlists.
+
+•🎶 Gerenciar mídias: adicionar músicas, podcasts ou audiobooks com título, artista, duração e gênero.
+
+•📂 Catálogo geral: armazenar todas as mídias cadastradas e permitir busca por título, artista ou gênero.
+
+•📜 Gerenciar playlists: criar playlists com nome, adicionar/remover mídias, visualizar conteúdo e calcular a duração total.
+
+•🎼 Gêneros musicais: classificação por gêneros como ROCK, POP, MPB, JAZZ, CLÁSSICA etc.
 
 •➕Adicionar um novo livro ou revista e armazená-lo no sistema;
-
-•📊Exibir a quantidade total de livros ou revistas registradas;
-
-•🔎Pesquisar um livro ou revista específico através do título;
-
-•🗑️Excluir um livro ou revista pelo título;
-
-•🚪Sair do sistema de streaming de mídias sonoras de forma segura.
